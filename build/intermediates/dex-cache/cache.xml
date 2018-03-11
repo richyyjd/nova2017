@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\text-to-speech\3.5.3\54c7b06570e007136526bcc0502d63474b2e487\text-to-speech-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="054c7b06570e007136526bcc0502d63474b2e487">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\text-to-speech-3.5.3_ab2368ee1865b48d333270919cef67b38ec0bd86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\alchemy\3.5.3\d2cfab19f79a400d0fb335227572190a1a74df92\alchemy-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d2cfab19f79a400d0fb335227572190a1a74df92">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\alchemy-3.5.3_f8e5e5bf87a2336d831c52949d64941330130571\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_ffad91d6c6981800b9362658cafab441c8caee71.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\personality-insights\3.5.3\d79cf9fa0ff4290e7f562a229df3cc62c16a7f46\personality-insights-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d79cf9fa0ff4290e7f562a229df3cc62c16a7f46">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\personality-insights-3.5.3_182cbae02c34eaf503c8f05a3bd4b9d046eb9ae4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\visual-recognition\3.5.3\d81a6517c4a442e9865d7df86c661a473b58eff6\visual-recognition-3.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d81a6517c4a442e9865d7df86c661a473b58eff6">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\visual-recognition-3.5.3_b105b2aecc26ca230f45f0bd14018ead949c54c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_7ae02c08708c15e456aeb0c9bc2b7994cac06ed3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\tone-analyzer\3.5.3\acb24c1b99ba260e7dc45e56fc7893f9aaa5f43a\tone-analyzer-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="acb24c1b99ba260e7dc45e56fc7893f9aaa5f43a">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\tone-analyzer-3.5.3_cd07b571628123e2f6a7dcefceaacfd8d2adc3d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\speech-to-text\3.5.3\3467f4a51a7924ac18cc393b48b7634dbcd547ca\speech-to-text-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3467f4a51a7924ac18cc393b48b7634dbcd547ca">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\speech-to-text-3.5.3_091499206a03761e56814e12ed5c1745a8f62b6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\exploded-aar\com.ibm.watson.developer_cloud\android-sdk\0.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43d5483c99811e1921d4d4d5c704aa04e83236c6">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\com.ibm.watson.developer_cloud-android-sdk-0.2.1_732633755733219b7a3f12ebaebd062f62d20d5e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.3.1\14e70f2069fb98dc60346dd24cb7b6a2e321580d\okhttp-urlconnection-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14e70f2069fb98dc60346dd24cb7b6a2e321580d">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-urlconnection-3.3.1_b1cf745c8b24111cf9ba045158441ee96ce620d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_a3be6fb27d96f029ef25348c4c1f0e41a753663a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\discovery\3.5.3\d876b7df14b2c09b212a78a3c0c26976249a3a03\discovery-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d876b7df14b2c09b212a78a3c0c26976249a3a03">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\discovery-3.5.3_9383101986e71c0849b1db4998b89f3a02c0fccb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\natural-language-classifier\3.5.3\a41cbcda0abcf99d2cda1f9e9268475c6152f22d\natural-language-classifier-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a41cbcda0abcf99d2cda1f9e9268475c6152f22d">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\natural-language-classifier-3.5.3_08ea597b77d83236f6db8a74917681ecb8c41b75\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\okhttp-3.3.1_494c7553a2837d79e0c4bf690fbde72cd00db753.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_ad4e806adf89d29b2e3044880e404cd114a77714.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\conversation\3.5.3\30711fe987b43f8e26942a232bc29bf0c545243d\conversation-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30711fe987b43f8e26942a232bc29bf0c545243d">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\conversation-3.5.3_6242913cd5d57503bd4f9a9b35ce264501d08374\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\retrieve-and-rank\3.5.3\f7a06ccabcabf0dcae503d345529d565f8ee8d0f\retrieve-and-rank-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7a06ccabcabf0dcae503d345529d565f8ee8d0f">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrieve-and-rank-3.5.3_ce617d751bbd9a70538af528fa9cbd6c2142b02f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\okio-1.8.0_fbb6b5748d804a19314a7c19327620f715772a7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_9bab1d55a2e2c972caa370eb9497634c1483664e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\core\3.5.3\c7d0e2ecfcad9ed1cdfb1cbb20bc2f7678939bb2\core-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7d0e2ecfcad9ed1cdfb1cbb20bc2f7678939bb2">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.5.3_ad2f7893f6f0a7d6bb3c2914c8daed8830f688ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna\4.2.2\5012450aee579c3118ff09461d5ce210e0cdc2a9\jna-4.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5012450aee579c3118ff09461d5ce210e0cdc2a9">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\jna-4.2.2_a7c36f27c7d51bcbbd5468bed98ff03541dd1be3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\language-translator\3.5.3\b4bf32238b4ac7c6fd789668e0e793236e7c7b6a\language-translator-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4bf32238b4ac7c6fd789668e0e793236e7c7b6a">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\language-translator-3.5.3_158b8e304a23ac2f121deb200288505104d28449\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.3.1\ebca9fdfbef870042a19aec6a5b7a21d72639310\okhttp-ws-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ebca9fdfbef870042a19aec6a5b7a21d72639310">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.3.1_30a6476e22416c17e4a77afd7dbf6b3e7849b524.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_67874c229bc2e536fbff54d600f82ac667a1b494.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\org.glassfish.jersey.bundles.repackaged\jersey-jsr166e\2.22.2\3ef9c67a5bea4d914a45bd54f3405fa29a368f7a\jersey-jsr166e-2.22.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3ef9c67a5bea4d914a45bd54f3405fa29a368f7a">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\jersey-jsr166e-2.22.2_1c3e8de65d999a3667f4ca68edb527c260f15dfa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_91ed6c614eb22bfcca1a1d565fad39ad9d220bf5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.3.1\99ce730034c6f5aaed710d1e0e9df95e8714ed5f\logging-interceptor-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.3.1_dae50e67e54f1052c3b171acaf2719be6e173abb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\dialog\3.5.3\6c32ec10bf14cd2d08a0f5ffa4e6276e59d81f5\dialog-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="06c32ec10bf14cd2d08a0f5ffa4e6276e59d81f5">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\dialog-3.5.3_af5309e0ad7bd359b686ccd05ae41239f7ffe6f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_117fe36ce64d7f6bb47fa1c089672581f79ddb7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_d4c1b6e0182c0f3299c2bbd2a7d2fc4a8298eabd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\language-translation\3.5.3\94eb4ef96bd72ee8e5b72575c5fa66b0695292c6\language-translation-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94eb4ef96bd72ee8e5b72575c5fa66b0695292c6">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\language-translation-3.5.3_9063bf68379350057620bf1f7efe98b7b4e5e907\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\gson-2.6.2_c5d9030bd78a3c48708bd078ed857359fe20e0fd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\document-conversion\3.5.3\784b3b1598e9f86601ebd9354726364c03e4a93\document-conversion-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0784b3b1598e9f86601ebd9354726364c03e4a93">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\document-conversion-3.5.3_757b90ab87fc65a369f54b7211ec30e753a5088e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\natural-language-classifier\3.5.3\a41cbcda0abcf99d2cda1f9e9268475c6152f22d\natural-language-classifier-3.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a41cbcda0abcf99d2cda1f9e9268475c6152f22d">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\natural-language-classifier-3.5.3_08ea597b77d83236f6db8a74917681ecb8c41b75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\text-to-speech\3.5.3\54c7b06570e007136526bcc0502d63474b2e487\text-to-speech-3.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="054c7b06570e007136526bcc0502d63474b2e487">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\text-to-speech-3.5.3_ab2368ee1865b48d333270919cef67b38ec0bd86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_117fe36ce64d7f6bb47fa1c089672581f79ddb7f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_ffad91d6c6981800b9362658cafab441c8caee71\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\alchemy\3.5.3\d2cfab19f79a400d0fb335227572190a1a74df92\alchemy-3.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d2cfab19f79a400d0fb335227572190a1a74df92">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\alchemy-3.5.3_f8e5e5bf87a2336d831c52949d64941330130571.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_7ae02c08708c15e456aeb0c9bc2b7994cac06ed3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\personality-insights\3.5.3\d79cf9fa0ff4290e7f562a229df3cc62c16a7f46\personality-insights-3.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d79cf9fa0ff4290e7f562a229df3cc62c16a7f46">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\personality-insights-3.5.3_182cbae02c34eaf503c8f05a3bd4b9d046eb9ae4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_72cefd3cb5ec9af64f3cb29c8040a494effe8e4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\discovery\3.5.3\d876b7df14b2c09b212a78a3c0c26976249a3a03\discovery-3.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d876b7df14b2c09b212a78a3c0c26976249a3a03">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\discovery-3.5.3_9383101986e71c0849b1db4998b89f3a02c0fccb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\tone-analyzer\3.5.3\acb24c1b99ba260e7dc45e56fc7893f9aaa5f43a\tone-analyzer-3.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="acb24c1b99ba260e7dc45e56fc7893f9aaa5f43a">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\tone-analyzer-3.5.3_cd07b571628123e2f6a7dcefceaacfd8d2adc3d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\speech-to-text\3.5.3\3467f4a51a7924ac18cc393b48b7634dbcd547ca\speech-to-text-3.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3467f4a51a7924ac18cc393b48b7634dbcd547ca">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\speech-to-text-3.5.3_091499206a03761e56814e12ed5c1745a8f62b6a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\tradeoff-analytics\3.5.3\3a2e0e4ac08ea7668eadeb543ffa3232cc771c64\tradeoff-analytics-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a2e0e4ac08ea7668eadeb543ffa3232cc771c64">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\tradeoff-analytics-3.5.3_172e20377397cd73abd86107555c33608e3d3fd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\visual-recognition\3.5.3\d81a6517c4a442e9865d7df86c661a473b58eff6\visual-recognition-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d81a6517c4a442e9865d7df86c661a473b58eff6">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\visual-recognition-3.5.3_b105b2aecc26ca230f45f0bd14018ead949c54c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.3.1\14e70f2069fb98dc60346dd24cb7b6a2e321580d\okhttp-urlconnection-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14e70f2069fb98dc60346dd24cb7b6a2e321580d">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.3.1_b1cf745c8b24111cf9ba045158441ee96ce620d7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc6959bc10a318217b585a5303cc453ea7b04a41">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_48da1be0673fc9cc12bca2418e86b69e2181f157\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.1_494c7553a2837d79e0c4bf690fbde72cd00db753\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_a3be6fb27d96f029ef25348c4c1f0e41a753663a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\exploded-aar\com.ibm.watson.developer_cloud\android-sdk\0.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43d5483c99811e1921d4d4d5c704aa04e83236c6">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.ibm.watson.developer_cloud-android-sdk-0.2.1_732633755733219b7a3f12ebaebd062f62d20d5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\conversation\3.5.3\30711fe987b43f8e26942a232bc29bf0c545243d\conversation-3.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30711fe987b43f8e26942a232bc29bf0c545243d">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\conversation-3.5.3_6242913cd5d57503bd4f9a9b35ce264501d08374.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\retrieve-and-rank\3.5.3\f7a06ccabcabf0dcae503d345529d565f8ee8d0f\retrieve-and-rank-3.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7a06ccabcabf0dcae503d345529d565f8ee8d0f">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\retrieve-and-rank-3.5.3_ce617d751bbd9a70538af528fa9cbd6c2142b02f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna\4.2.2\5012450aee579c3118ff09461d5ce210e0cdc2a9\jna-4.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5012450aee579c3118ff09461d5ce210e0cdc2a9">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\jna-4.2.2_a7c36f27c7d51bcbbd5468bed98ff03541dd1be3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_fbb6b5748d804a19314a7c19327620f715772a7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_9bab1d55a2e2c972caa370eb9497634c1483664e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\tradeoff-analytics\3.5.3\3a2e0e4ac08ea7668eadeb543ffa3232cc771c64\tradeoff-analytics-3.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a2e0e4ac08ea7668eadeb543ffa3232cc771c64">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\tradeoff-analytics-3.5.3_172e20377397cd73abd86107555c33608e3d3fd3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_ad4e806adf89d29b2e3044880e404cd114a77714\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\core\3.5.3\c7d0e2ecfcad9ed1cdfb1cbb20bc2f7678939bb2\core-3.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7d0e2ecfcad9ed1cdfb1cbb20bc2f7678939bb2">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\core-3.5.3_ad2f7893f6f0a7d6bb3c2914c8daed8830f688ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\language-translator\3.5.3\b4bf32238b4ac7c6fd789668e0e793236e7c7b6a\language-translator-3.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4bf32238b4ac7c6fd789668e0e793236e7c7b6a">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\language-translator-3.5.3_158b8e304a23ac2f121deb200288505104d28449.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.3.1\ebca9fdfbef870042a19aec6a5b7a21d72639310\okhttp-ws-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ebca9fdfbef870042a19aec6a5b7a21d72639310">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-ws-3.3.1_30a6476e22416c17e4a77afd7dbf6b3e7849b524\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_72cefd3cb5ec9af64f3cb29c8040a494effe8e4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.3.1\99ce730034c6f5aaed710d1e0e9df95e8714ed5f\logging-interceptor-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.3.1_dae50e67e54f1052c3b171acaf2719be6e173abb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_67874c229bc2e536fbff54d600f82ac667a1b494\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\org.glassfish.jersey.bundles.repackaged\jersey-jsr166e\2.22.2\3ef9c67a5bea4d914a45bd54f3405fa29a368f7a\jersey-jsr166e-2.22.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3ef9c67a5bea4d914a45bd54f3405fa29a368f7a">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\jersey-jsr166e-2.22.2_1c3e8de65d999a3667f4ca68edb527c260f15dfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\dialog\3.5.3\6c32ec10bf14cd2d08a0f5ffa4e6276e59d81f5\dialog-3.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="06c32ec10bf14cd2d08a0f5ffa4e6276e59d81f5">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\dialog-3.5.3_af5309e0ad7bd359b686ccd05ae41239f7ffe6f2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b61d72203511423e58557877f08a68fe8be256b">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a682cbb15597d70bd3109c03b9cc5fc32785ecf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_c5d9030bd78a3c48708bd078ed857359fe20e0fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\document-conversion\3.5.3\784b3b1598e9f86601ebd9354726364c03e4a93\document-conversion-3.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0784b3b1598e9f86601ebd9354726364c03e4a93">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\document-conversion-3.5.3_757b90ab87fc65a369f54b7211ec30e753a5088e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_91ed6c614eb22bfcca1a1d565fad39ad9d220bf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\language-translation\3.5.3\94eb4ef96bd72ee8e5b72575c5fa66b0695292c6\language-translation-3.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94eb4ef96bd72ee8e5b72575c5fa66b0695292c6">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\language-translation-3.5.3_9063bf68379350057620bf1f7efe98b7b4e5e907.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Richard\AndroidProjects\Nova_v6_en2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_d4c1b6e0182c0f3299c2bbd2a7d2fc4a8298eabd.jar" />
+    </item>
+
+</items>
